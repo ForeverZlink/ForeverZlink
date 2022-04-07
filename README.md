@@ -2,11 +2,11 @@
 
  
 
-## I'm (SEU NOME)!
+## Opa
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Sou um programador back end.
 
 :house_with_garden: I’m from Brazil.
 
@@ -14,14 +14,10 @@
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
- 
 
+[![ForeverZlink GitHub stats](https://github-readme-stats.vercel.app/api?username=ForeverZlink)](https://github.com/ForeverZlink/github-readme-stats)
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
-- Thanks for visiting.
 
-- Enjoy it!! o/
